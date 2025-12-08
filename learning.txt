@@ -1,0 +1,2 @@
+What I have learned from this course
+I've learnt from the Linux course various aspects of git commands, I have also learnt how to fork repositories and initiate pull requests which i was not aware previously
